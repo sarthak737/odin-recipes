@@ -2,16 +2,54 @@ body {
   background-color: #eaeaea;
   color: #333;
   font-family: sans-serif;
+  line-height: 1.5;
+  padding: 10px;
+  font-size: 18px;
 }
 
 .heading {
   text-align: center;
-  font-size: 48px;
   letter-spacing: -1px;
   word-spacing: 1px;
 }
 
-.recipes-list li {
+.main-heading {
+  font-size: 38px;
+  color: #111;
+}
+
+.recipe-list {
+  width: 80%;
+}
+
+.recipe-list li {
   font-size: 24px;
-  line-height: 1.5;
+  margin: 20px;
+  list-style-position: inside;
+}
+
+.recipe-list li a {
+  color: #444;
+}
+
+.recipes-list {
+  margin-top: 50px;
+}
+
+.recipes-list li a {
+  font-size: 24px;
+  margin: 20px;
+  list-style-position: inside;
+  color: #444;
+  font-weight: 600;
+  line-height: 2;
+}
+
+.recipe-img {
+  display: block;
+  margin: auto;
+  width: 300px;
+  height: auto;
+  box-shadow: 0px 10px 32px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
 }
