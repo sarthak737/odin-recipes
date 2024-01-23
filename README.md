@@ -1,7 +1,9 @@
 # odin-recipes
 
-This is the Odin Recipes project, a simple HTML-based collection of recipes. These recipes are presented with clear instructions and visuals.
+This project features a collection of recipes styled with basic CSS for a more visually appealing presentation.
 
-In this project, I've demonstrated skills in HTML markup, image integration, linking, and structuring content. The use of lists and headings ensures a logical presentation of ingredients and steps.
+Clear instructions, visuals, and structured content make the recipes easy to follow.
 
-This project allowed me to practice fundamental HTML skills, creating a web project. As I move forward, I plan to enhance the project with CSS for styling.
+Technologies used include HTML for structure and CSS for styling.
+
+Future plans involve refining the project with advanced CSS techniques.
